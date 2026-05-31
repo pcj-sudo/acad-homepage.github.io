@@ -14,7 +14,7 @@ redirect_from:
   RULE: any change to visible text MUST be made in BOTH languages.
   Keep the two spans adjacent with NO space between them.
   Paper titles & author lists are intentionally English-only (academic convention).
-  Section headings pin an explicit {#id} (must start with a letter) matching _data/navigation.yml.
+  Section headings pin an explicit anchor id (must start with a letter) matching _data/navigation.yml.
 -->
 
 <span class='anchor' id='about-me'></span>
