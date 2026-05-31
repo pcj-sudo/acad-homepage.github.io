@@ -1,25 +1,21 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
-
   - title: "News"
+    title_zh: "最新动态"
     url: "/#news"
 
+  - title: "Internships"
+    title_zh: "实习经历"
+    url: "/#internships"
+
   - title: "Publications"
+    title_zh: "论文发表"
     url: "/#publications"
 
-  - title: "Research"
-    url: "/#research"
-
   - title: "Honors and Awards"
-    url: "/#honors"
+    title_zh: "荣誉奖项"
+    url: "/#honors-and-awards"
 
-  - title: "Educations"
-    url: "/#educations"
-
-  - title: "Competitions"
-    url: "/#competitions"
-
-  - title: "Internships"
-    url: "/#internships"
+  - title: "Education"
+    title_zh: "教育经历"
+    url: "/#education"

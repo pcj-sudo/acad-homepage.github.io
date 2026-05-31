@@ -19,12 +19,19 @@ google_site_verification :  # get google_site_verification from https://search.g
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
+# Bilingual sidebar blurb (under avatar)
+sidebar_blurb    : "MSc student at Peking University. LLM agents, harness engineering & post-training."
+sidebar_blurb_zh : "北京大学硕士研究生。研究方向:大模型智能体、Harness Engineering 与后训练。"
+
 # Site Author
 author:
   name             : "Chengjun Pan"
+  name_zh          : "潘成骏"
   avatar           : "images/avatar.jpg"
   bio              : "MSc Student @ Peking University"
+  bio_zh           : "北京大学硕士研究生"
   location         : "Beijing, China"
+  location_zh      : "中国 · 北京"
   employer         : "Peking University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=IlKyHdcAAAAJ"
