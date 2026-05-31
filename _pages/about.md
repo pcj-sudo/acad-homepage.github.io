@@ -32,15 +32,15 @@ redirect_from:
 - *2026.02*: <span class="lang-en">🎉 **[AgentCPM-Explore](https://arxiv.org/abs/2602.06485)** is released on arXiv.</span><span class="lang-zh">🎉 **[AgentCPM-Explore](https://arxiv.org/abs/2602.06485)** 已在 arXiv 发布。</span>
 
 # 💻 <span class="lang-en">Internships</span><span class="lang-zh">实习经历</span> {#internships}
-- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="images/logos/nexagi.png" alt="NEX-AGI" style="max-width: 160px; max-height: 50px;" onerror="this.parentElement.style.display='none'"></span><span style="display: inline-block; vertical-align: middle;"><span class="lang-en">**2026.1 - Present** · LLM Algorithm Research, **NEX-AGI** (Shanghai Qiji Zhifeng Co., Ltd.), Shanghai</span><span class="lang-zh">**2026.1 - 至今** · 大模型算法研究，**NEX-AGI（上海奇绩智峰）**，上海</span></span><br><span class="lang-en">*Self-evolution of LLMs and multi-agent systems.*</span><span class="lang-zh">*大语言模型的自演化与多智能体方向。*</span>
+- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="images/logos/nexagi.jpg" alt="NEX-AGI" style="max-width: 160px; max-height: 50px;" onerror="this.parentElement.style.display='none'"></span><span style="display: inline-block; vertical-align: middle;"><span class="lang-en">**2026.1 - Present** · LLM Algorithm Research, **NEX-AGI** (Shanghai Qiji Zhifeng Co., Ltd.), Shanghai</span><span class="lang-zh">**2026.1 - 至今** · 大模型算法研究，**NEX-AGI（上海奇绩智峰）**，上海</span></span><br><span class="lang-en">*Self-evolution of LLMs and multi-agent systems.*</span><span class="lang-zh">*大语言模型的自演化与多智能体方向。*</span>
 - <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="images/logos/thunlp.png" alt="THUNLP" style="max-width: 160px; max-height: 50px;" onerror="this.parentElement.style.display='none'"></span><span style="display: inline-block; vertical-align: middle;"><span class="lang-en">**2025.10 - 2026.01** · LLM Algorithm Research, **THUNLP, Tsinghua University**, Beijing</span><span class="lang-zh">**2025.10 - 2026.01** · 大模型算法研究，**清华大学 THUNLP**，北京</span></span><br><span class="lang-en">*AgentCPM-Explore model development; improving RL algorithms for LLMs in multi-turn tool-use settings.*</span><span class="lang-zh">*AgentCPM-Explore模型研发，面向多轮工具学习场景的大模型强化学习算法改进。*</span>
-- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="images/logos/huajun.png" alt="Huajun Guanghui" style="max-width: 160px; max-height: 50px;" onerror="this.parentElement.style.display='none'"></span><span style="display: inline-block; vertical-align: middle;"><span class="lang-en">**2025.03 - 2025.07** · Quantitative Strategy Research, **Huajun Guanghui**, Shanghai</span><span class="lang-zh">**2025.03 - 2025.07** · 量化策略研究，**华钧广汇**，上海</span></span><br><span class="lang-en">*Intraday quantitative strategies for index futures and options, and high-frequency factor mining.*</span><span class="lang-zh">*股指期货期权日内量化策略与高频因子挖掘。*</span>
-- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="images/logos/zhanhong.png" alt="Zhanhong Investment" style="max-width: 160px; max-height: 50px;" onerror="this.parentElement.style.display='none'"></span><span style="display: inline-block; vertical-align: middle;"><span class="lang-en">**2024.07 - 2024.11** · Quantitative Strategy Research, **Zhanhong Investment**, Shanghai</span><span class="lang-zh">**2024.07 - 2024.11** · 量化策略研究，**展弘投资**，上海</span></span><br><span class="lang-en">*Intraday quantitative trading strategies for commodity and index futures.*</span><span class="lang-zh">*商品期货/股指期货的日内量化交易策略。*</span>
+- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="images/logos/huajun.svg" alt="Huajun Guanghui" style="max-width: 160px; max-height: 50px;" onerror="this.parentElement.style.display='none'"></span><span style="display: inline-block; vertical-align: middle;"><span class="lang-en">**2025.03 - 2025.07** · Quantitative Strategy Research, **Huajun Guanghui**, Shanghai</span><span class="lang-zh">**2025.03 - 2025.07** · 量化策略研究，**华钧广汇**，上海</span></span><br><span class="lang-en">*Intraday quantitative strategies for index futures and options, and high-frequency factor mining.*</span><span class="lang-zh">*股指期货期权日内量化策略与高频因子挖掘。*</span>
+- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="images/logos/zhanhong.jpg" alt="Zhanhong Investment" style="max-width: 160px; max-height: 50px;" onerror="this.parentElement.style.display='none'"></span><span style="display: inline-block; vertical-align: middle;"><span class="lang-en">**2024.07 - 2024.11** · Quantitative Strategy Research, **Zhanhong Investment**, Shanghai</span><span class="lang-zh">**2024.07 - 2024.11** · 量化策略研究，**展弘投资**，上海</span></span><br><span class="lang-en">*Intraday quantitative trading strategies for commodity and index futures.*</span><span class="lang-zh">*商品期货/股指期货的日内量化交易策略。*</span>
 
 
 # 📝 <span class="lang-en">Publications</span><span class="lang-zh">论文发表</span> {#publications}
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/ahe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses
@@ -55,7 +55,7 @@ Jiahang Lin\*, Shichun Liu\*, **Chengjun Pan**\*, Lizhi Lin, Shihan Dou, Xuanjin
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/evpo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### EVPO: Explained Variance Policy Optimization for Adaptive Critic Utilization in LLM Post-Training
@@ -70,7 +70,7 @@ Jiahang Lin\*, Shichun Liu\*, **Chengjun Pan**\*, Lizhi Lin, Shihan Dou, Xuanjin
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/autojudger.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs
@@ -84,7 +84,7 @@ Xuanwen Ding\*, **Chengjun Pan**\*, Zejun Li, Jiwen Zhang, Siyuan Wang, Zhongyu 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/agentcpm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### AgentCPM-Explore: Realizing Long-Horizon Deep Exploration for Edge-Scale Agents
@@ -98,7 +98,7 @@ Heyang Chen, Xin Cong, ..., **Chengjun Pan**, et al.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Risks 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
 ### Exploring Systemic Risk Dynamics in the Chinese Stock Market: A Network Analysis with Risk Transmission Index
