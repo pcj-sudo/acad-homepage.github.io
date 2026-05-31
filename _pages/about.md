@@ -48,7 +48,7 @@ redirect_from:
 Xuanwen Ding\*, **Chengjun Pan**\*, Zejun Li, Jiwen Zhang, Siyuan Wang, Zhongyu Wei
 
 - <span class="lang-en">An agent-driven framework that uses Item Response Theory (IRT) to model item difficulty and model ability, adaptively selecting a small subset of benchmark items to match full-benchmark evaluation of MLLMs at a fraction of the cost.</span><span class="lang-zh">一个由智能体驱动的框架，利用项目反应理论（IRT）建模试题难度与模型能力，动态选取少量评测题目，即可以极低成本达到媲美全量评测的多模态大模型评估效果。</span>
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2505.21389)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2505.21389) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/IMNearth/AutoJudger)
 
 </div>
 </div>
@@ -63,7 +63,7 @@ Xuanwen Ding\*, **Chengjun Pan**\*, Zejun Li, Jiwen Zhang, Siyuan Wang, Zhongyu 
 
 - <span class="lang-en">We cast baseline selection in LLM post-training as a Kalman filtering problem, unifying PPO and GRPO as two extremes of the Kalman gain, and prove that the sign of explained variance (EV) is the exact boundary separating the variance-reducing from the variance-inflating critic regime.</span><span class="lang-zh">我们将大模型后训练中的 baseline 选择建模为卡尔曼滤波问题，把 PPO 与 GRPO 统一为卡尔曼增益的两个极端，并证明 explained variance（EV）的符号正是区分「降方差」与「增方差」critic 区间的精确边界。</span>
 - <span class="lang-en">EVPO adaptively switches between critic-based and batch-mean advantage estimation per step based on EV sign, achieving the best results across Sokoban, FrozenLake, WebShop, and MATH.</span><span class="lang-zh">EVPO 依据每一步的 EV 符号，在基于 critic 与基于 batch 均值的优势估计之间自适应切换，在 Sokoban、FrozenLake、WebShop 与 MATH 上均取得最佳结果。</span>
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2604.19485) \| [![](https://img.shields.io/badge/Blog-fff)](https://dawning-road.github.io/blog/evpo)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2604.19485) \| [![](https://img.shields.io/badge/Blog-fff)](https://dawning-road.github.io/blog/evpo) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/pcj-sudo/EVPO)
 
 </div>
 </div>
